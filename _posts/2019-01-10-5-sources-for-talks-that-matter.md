@@ -8,13 +8,13 @@ These are 5 of my favorite ways to supply myself with new, meaningful discussion
 
 # 1) [Politics and Prose](https://www.youtube.com/user/politicsprose)
 
-{% youtube Yc9g8RPcyEg %}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Yc9g8RPcyEg/0.jpg)](https://www.youtube.com/watch?v=Yc9g8RPcyEg)
 
 This talk series is hosted by the [Politics and Prose](https://www.politics-prose.com/) bookstore in Washington, D.C., and they attract a dizzying array of authors to talk about their work, usually with Q&A. One problem I struggle with is wanting to read too much—a nice problem to have—and this constant stream of authors summarizing their own work helps me scratch that itch while scouting for new things to read.
 
 # 2) [C-SPAN](https://www.c-span.org/)
 
-{% youtube KbAPtGYiRvg %}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KbAPtGYiRvg/0.jpg)](https://www.youtube.com/watch?v=KbAPtGYiRvg)
 
 (C-SPAN doesn't allow embeds from their site, so here's a link to [David Graeber talking about his book *Bullshit Jobs* on *Book TV*](https://www.c-span.org/video/?446716-2/bullshit-jobs). It's more representative of the modern programs.)
 
@@ -26,7 +26,7 @@ The C-SPAN mobile app offers several of their video series and all three of thei
 
 # 3) [*Ipse Dixit*](https://shows.pippa.io/ipse-dixit)
 
-{% youtube Gpiu45Hx-Zg %}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Gpiu45Hx/0.jpg)](https://www.youtube.com/watch?v=Gpiu45Hx)
 
 Brian L. Frye is a professor at the University of Kentucky College of Law, and someone I'm legit proud to have as a [Twitter](https://twitter.com/lethargilistic) [mutual](https://twitter.com/brianlfrye). Sometime last fall, he started a sabbatical from his job and decided to work constantly on a podcast about the legal scholarship with which he spends much of his time. Every episode is an incredibly informative interview with a legal scholar about their work and it covers an insane range of issues, often things that affect many Americans every day which most people are unaware of. Because is about scholarship, there's often a free, detailed resource to move on to if you're interested in deep diving into the discussion. He also posts "archive" episodes from vintage recordings, which vary in the same way from informative to weird to hilarious that they even exist.
 
@@ -36,7 +36,7 @@ Producing this behemoth hasn't stopped him from continuing to [publish new paper
 
 # 4) [LibriVox](https://librivox.org/)
 
-{% youtube 6pPwB1rTJts %}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6pPwB1rTJts/0.jpg)](https://www.youtube.com/watch?v=6pPwB1rTJts)
 
 2019 marks the first time in 20 years that works have entered the public domain in the United States, so it's a good time to appreciate a group that revitalizes those works for the people for free. LibriVox audiobooks and audiodramas are produced entirely by volunteers and all of the books belong to all of us via the public domain, which means most (*not* all) of these books were published before 1924. Some think that old works are less relevant to modern audiences because we have so much new information coming at us from all directions, but that is a needless prejudice. Old books have a lot to teach us, and [the Lindy effect](https://fs.blog/2013/08/choose-your-next-book/) tells us that things that have remained relevant longer are more likely to remain relevant in the future.
 
@@ -46,7 +46,7 @@ If I might stand on my soapbox for a second, the current state of copyright law 
 
 # 5) [*Recode Decode*](https://www.recode.net/recode-decode-podcast-kara-swisher) and [*Pivot*](https://itunes.apple.com/us/podcast/too-embarrassed-to-ask/id1073226719?mt=2)
 
-{% soundcloud https://soundcloud.com/recode-decode/how-to-fix-the-problems-caused %}
+https://soundcloud.com/recode-decode/how-to-fix-the-problems-caused
 
 If you work in tech and aren't following Kara Swisher's work with Recode Media or [her column in *The New York Times*](https://www.nytimes.com/column/kara-swisher)...who the fuck *are* you following? Swisher has been a leading commentator on technology news for a long time. In recent years, she's taken a turn toward more directly addressing cultural "techlash" in America as we've been hammered over and over again with new examples of companies peddling utopian visions of the future with their software were not the benefactors they claimed to be. On *Recode Decode*, she interviews all manner of tech professionals, executives, and authors to tease out where we're going and how we can get there without destroying everything. *Pivot* is a weekly news discussion show she hosts with Scott Galloway, the NYU professor who wrote [*The Four*](http://www.thefourbook.com/) to explore how the largest companies went about infiltrating and profiting from our lives.
 

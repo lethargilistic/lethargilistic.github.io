@@ -83,4 +83,5 @@ Life!
 
 *There's a song and dance to go with it! ([The inceptive version has much better music, tho.](https://www.youtube.com/watch?v=XTH6cQD9yZE))*
 
-{% youtube 3MH6efoYzJE %}
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3MH6efoYzJE/0.jpg)](https://www.youtube.com/watch?v=3MH6efoYzJE)
+
